@@ -1,7 +1,7 @@
 
 # Weather Application
 
-A simple React-based weather app built with Vite. It fetches real-time weather data from the OpenWeatherMap API and displays temperature, humidity, wind, and weather icons for any city.
+A React-based weather app built with Vite. It fetches real-time weather data from the OpenWeatherMap API and displays temperature, humidity, wind, and weather icons for any city.
 
 ## Features
 - Search for weather by city name
