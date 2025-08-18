@@ -46,19 +46,19 @@ Replace the API key in your code with your own from [OpenWeatherMap](https://ope
 
 ## Project Structure
 
-Weather Application/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── Weather.jsx
-│   │   └── Weather.css
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-├── eslint.config.js
-└── README.md
+Weather Application/ 
+├── public/  
+├── src/ 
+│   ├── assets/ 
+│   ├── components/ 
+│   │   ├── Weather.jsx 
+│   │   └── Weather.css 
+│   ├── App.jsx 
+│   ├── main.jsx 
+│   └── index.css 
+├── index.html 
+├── package.json 
+├── vite.config.js 
+├── eslint.config.js 
+└── README.md 
 
